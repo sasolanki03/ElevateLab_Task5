@@ -1,0 +1,25 @@
+--------------------------------Task-5: Capture and Analyze Network Traffic Using Wireshark----------------------------------
+
+***Wireshark Capture Summary***
+
+Protocols observed: DNS, TCP, HTTP, ICMP
+
+Purpose:
+
+DNS: Resolved domains like google.com and wikipedia.org
+
+TCP: Established reliable connections
+
+HTTP: Requested web pages (GET method)
+
+ICMP: for ping/echo requests
+
+Insights:
+
+Detected multiple DNS queries for websites
+
+HTTP GET requests showed browsing behavior
+
+TCP handshakes confirmed successful connections
+
+ICMP Used for ping and diagnostics
